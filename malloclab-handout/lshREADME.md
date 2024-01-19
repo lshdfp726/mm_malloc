@@ -6,3 +6,5 @@
 ##### 通过make编译出mdriver可执行文件，然后通过vscode debug即可
 
 #### 该实验主要验证函数 mdriver.c ，我们实现的主要函数是 mm.c, 都已添加注释
+
+#### 项目来源: https://hansimov.gitbook.io/csapp/labs/malloc-lab
